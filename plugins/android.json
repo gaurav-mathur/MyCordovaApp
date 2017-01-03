@@ -9,6 +9,9 @@
     "installed_plugins": {
         "cordova-plugin-camera": {
             "PACKAGE_NAME": "com.colpal.mycordovapp"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.colpal.mycordovapp"
         }
     },
     "dependent_plugins": {
